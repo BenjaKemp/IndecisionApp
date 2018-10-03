@@ -1,0 +1,21 @@
+.header {
+  background: $off-black;
+  color: white;
+  margin-bottom: $large-size;
+  padding: $small-size 0;
+
+}
+
+.header__title {
+font-size: $mid-size;
+margin: 0;
+
+}
+
+.header__subtitle {
+  color: #a5afd7;
+  font-size: $small-size;
+  font-weight: 500;
+  font-family:fantasy;
+  margin: 0;
+}
